@@ -7,6 +7,6 @@ Simple implementation of a duplicate detection technique using the `dedupe` pyth
 
 ## References:
 
-**[1]:** https://docs.dedupe.io/en/latest/index.html
-**[2]:** https://github.com/vintasoftware/deduplication-slides/blob/master/slides.ipynb
-**[3]:** https://github.com/dedupeio/dedupe-examples/tree/master/csv_example
+- **[1]:** https://docs.dedupe.io/en/latest/index.html
+- **[2]:** https://github.com/vintasoftware/deduplication-slides/blob/master/slides.ipynb
+- **[3]:** https://github.com/dedupeio/dedupe-examples/tree/master/csv_example
