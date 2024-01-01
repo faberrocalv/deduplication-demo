@@ -1,0 +1,34 @@
+Cluster ID,confidence_score,name,addr,city,type,id
+6,1.0,locanda veneta,3rd st.,los angeles,italian,0
+0,0.7860274291465319,locanda veneta,8638 w. third st.,los angeles,italian,1
+0,0.7860274291465319,locanda veneta,8638 w 3rd,st los angeles,italian,2
+1,0.98323005,cafe lalo,201 w. 83rd st.,new york,coffee bar,3
+1,0.98323005,cafe lalo,201 w. 83rd st.,new york city,coffeehouses,4
+7,1.0,les celebrites,160 central park s,new york,french,5
+8,1.0,les celebrites,155 w. 58th st.,new york city,french (classic),6
+2,0.8077531,second avenue deli,156 2nd ave. at 10th st.,new york,delicatessen,7
+2,0.8077531,second avenue deli,156 second ave.,new york city,delis,8
+9,1.0,smith wollensky,201 e. 49th st.,new york,american,9
+10,1.0,smith wollensky,797 third ave.,new york city,steakhouses,10
+3,0.9838027,chin,3200 las vegas blvd. s,las vegas,asian,11
+3,0.9838027,chin,3200 las vegas blvd. s.,las vegas,chinese,12
+4,0.93425727,toulouse,b peachtree rd.,atlanta,french,13
+4,0.93425727,toulouse,293-b peachtree rd.,atlanta,french (new),14
+5,0.9846,rose pistola,532 columbus ave.,san francisco,italian,15
+5,0.9846,rose pistola,532 columbus ave.,san francisco,italian,16
+11,1.0,bistro garden,176 n. canon dr.,los angeles,californian,17
+12,1.0,remi,3rd st. promenade,santa monica,italian,18
+13,1.0,remi,145 w. 53rd st.,new york,italian,19
+14,1.0,west,63rd street steakhouse 44 w. 63rd st.,new york,american,20
+15,1.0,bistro,3400 las vegas blvd. s,las vegas,continental,21
+16,1.0,mikado,3400 las vegas blvd. s,las vegas,asian,22
+17,1.0,osteria del forno,519 columbus ave.,san francisco,italian,23
+18,1.0,stars,150 redwood alley,san francisco,american,24
+19,1.0,stars cafe,500 van ness ave.,san francisco,american,25
+20,1.0,belvedere,9882 little santa monica blvd.,beverly hills,pacific new wave,26
+21,1.0,bernard,515 s. olive st.,los angeles,continental,27
+22,1.0,bistro 45,45 s. mentor ave.,pasadena,californian,28
+23,1.0,cafe 50s,838 lincoln blvd.,venice,american,29
+24,1.0,cafe blanc,9777 little santa monica blvd.,beverly hills,pacific new wave,30
+25,1.0,cachette,10506 little santa monica blvd.,century city,french (new),31
+26,1.0,moongate,3400 las vegas blvd. s.,las vegas,chinese,32
